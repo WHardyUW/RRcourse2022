@@ -222,7 +222,7 @@ We have previously set a typical width to `r typical_width` and the typical heig
 
 ## Conditional execution with `eval`
 
-(`is.weekend` comes from the `chrono` package)
+(`is.weekend` comes from the `chron` package)
 
 ```{r, eval=is.weekend(Sys.Date())}
 cat("It's the weekend! :)")
