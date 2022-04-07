@@ -1,2 +1,10 @@
 Hi, My name is Aymir and I am a Data Science Master's Student.
 Hi, as second assignment required, copy of the repo has been made in my local machine and then fetched and merged with original repo.
+
+1. Her(film)
+
+2. 
+
+3. On Rotten Tomatoes, the film has an approval rating of 94% based on 283 reviews, with an average rating of 8.5/10. The site's critical consensus reads, "Sweet, soulful, and smart, Spike Jonze's Her uses its just-barely-sci-fi scenario to impart wryly funny wisdom about the state of modern human relationships."[46] On Metacritic the film has a weighted average score of 91 out of 100, based on 47 critics, indicating "universal acclaim."[47] Audiences polled by CinemaScore gave the film an average grade of "B–" on an A+ to F scale.
+
+4. 
